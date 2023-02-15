@@ -1,0 +1,36 @@
+02/13/23 08:31:08:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+02/13/23 08:31:09:PM: seleniumDriver: INFO: Element found with locator: (//input[@id='email'])[1] and  locatorType: xpath
+02/13/23 08:31:09:PM: seleniumDriver: INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+02/13/23 08:31:09:PM: seleniumDriver: INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
+02/13/23 08:31:23:PM: seleniumDriver: INFO: Element found with locator: (//a[@href='/courses'])[1] and  locatorType: xpath
+02/13/23 08:31:29:PM: seleniumDriver: INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+02/13/23 08:31:32:PM: seleniumDriver: INFO: Element found with locator: //button[@type='submit'] and  locatorType: xpath
+02/13/23 08:31:35:PM: seleniumDriver: INFO: Element found with locator: (//div[@class='zen-course-list'])[1] and  locatorType: xpath
+02/13/23 08:32:00:PM: seleniumDriver: INFO: Element found with locator: //button[text()='Enroll in Course'] and  locatorType: xpath
+02/13/23 08:32:24:PM: seleniumDriver: INFO: Element found with locator: //h3[text()='Payment Information '] and  locatorType: xpath
+02/13/23 08:32:31:PM: seleniumDriver: INFO: Element found with locator: cardnumber and  locatorType: name
+02/13/23 08:32:34:PM: seleniumDriver: INFO: Element found with locator: //input[@autocomplete='cc-exp'] and  locatorType: xpath
+02/13/23 08:32:37:PM: seleniumDriver: INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+02/13/23 08:32:40:PM: seleniumDriver: INFO: Element found with locator: country-list and  locatorType: name
+02/13/23 08:32:40:PM: seleniumDriver: INFO: Element found with locator: (//i[@class='fa fa-arrow-right'])[1] and  locatorType: xpath
+02/13/23 08:32:46:PM: seleniumDriver: INFO: Element found with locator: (//a[@href='/courses'])[1] and  locatorType: xpath
+02/13/23 08:32:53:PM: seleniumDriver: INFO: Element found with locator: //input[@id='search'] and  locatorType: xpath
+02/13/23 08:32:57:PM: seleniumDriver: INFO: Element found with locator: //button[@type='submit'] and  locatorType: xpath
+02/13/23 08:33:00:PM: seleniumDriver: INFO: Element found with locator: (//div[@class='zen-course-list'])[1] and  locatorType: xpath
+02/13/23 08:33:40:PM: seleniumDriver: INFO: Element found with locator: //button[text()='Enroll in Course'] and  locatorType: xpath
+02/13/23 08:34:21:PM: seleniumDriver: INFO: Element found with locator: //h3[text()='Payment Information '] and  locatorType: xpath
+02/13/23 08:34:28:PM: seleniumDriver: INFO: Element found with locator: cardnumber and  locatorType: name
+02/13/23 08:34:31:PM: seleniumDriver: INFO: Element found with locator: //input[@autocomplete='cc-exp'] and  locatorType: xpath
+02/13/23 08:34:35:PM: seleniumDriver: INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+02/13/23 08:34:38:PM: seleniumDriver: INFO: Element found with locator: country-list and  locatorType: name
+02/13/23 08:34:38:PM: seleniumDriver: INFO: Element found with locator: (//i[@class='fa fa-arrow-right'])[1] and  locatorType: xpath
+02/13/23 08:34:54:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+02/13/23 08:34:55:PM: seleniumDriver: INFO: Element found with locator: (//input[@id='email'])[1] and  locatorType: xpath
+02/13/23 08:34:55:PM: seleniumDriver: INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+02/13/23 08:34:55:PM: seleniumDriver: INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
+02/13/23 08:34:58:PM: seleniumDriver: INFO: Element found with locator: //span[@class='caret'] and  locatorType: xpath
+02/13/23 08:35:01:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/logout'] and  locatorType: xpath
+02/13/23 08:35:05:PM: seleniumDriver: INFO: Element found with locator: //a[@href='/login'] and  locatorType: xpath
+02/13/23 08:35:06:PM: seleniumDriver: INFO: Element found with locator: (//input[@id='email'])[1] and  locatorType: xpath
+02/13/23 08:35:06:PM: seleniumDriver: INFO: Element found with locator: //input[@id='password'] and  locatorType: xpath
+02/13/23 08:35:07:PM: seleniumDriver: INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
